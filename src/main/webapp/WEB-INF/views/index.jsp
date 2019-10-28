@@ -1,4 +1,4 @@
-<%@ include file="parts/ifLoginFail.jsp" %>
+<%@ include file="parts/head.jsp" %>
 
 <!DOCTYPE html>
 <html>
